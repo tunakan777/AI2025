@@ -141,8 +141,8 @@ git clone https://github.com/your-username/gemini-rss-news.git
 cd gemini-rss-news
 
 # 2. index.html を編集
-# テキストエディタで開いて31行目を編集:
-編集箇所（31行目付近）:
+# テキストエディタで開いて84行目を編集:
+編集箇所（84行目付近）:
 javascript// ⚠️ ここにあなたのGemini APIキーを設定してください
 const GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY_HERE';  // ← ここを編集
 ↓ 変更後 ↓
